@@ -6,7 +6,7 @@
 
 Lexi is an advanced image processing chatbot designed to assist users in analyzing and querying images. It utilizes the **Copilot API** to answer image-related questions and features **OCR (Optical Character Recognition)** technology to extract and analyze text and visual elements from the images. The chatbot is built with a user-friendly front-end, providing a smooth experience across all devices.
 
-You can check out the live version here: [Lexi Chatbot Frontend](https://lexi-frontend.vercel.app)
+You can check out the live version here: [Lexi Chatbot Live](https://lexi-frontend.vercel.app)
 
 ## Features
 
