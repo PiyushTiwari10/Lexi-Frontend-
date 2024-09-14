@@ -1,6 +1,6 @@
 # Lexi - The Image Processing Chatbot
 
-![Lexi Chatbot- Github](https://github.com/PiyushTiwari10/Lexi-Bot)
+[Lexi Chatbot- Github](https://github.com/PiyushTiwari10/Lexi-Bot)
 
 ## Overview
 
