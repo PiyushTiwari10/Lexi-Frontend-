@@ -28,7 +28,9 @@ You can check out the live version here: [Lexi Chatbot Frontend](https://lexi-fr
 )
 
 ### Image Processing and Response
-(link-to-processing-screenshot.png)
+(![Screenshot 2024-09-14 165416](https://github.com/user-attachments/assets/e13d2ca4-5d8c-4432-a229-00b9f44af59c)
+![Screenshot 2024-09-14 165253](https://github.com/user-attachments/assets/d8d54c5e-6ac4-49c6-a8fb-16fddd664a6a)
+)
 
 ## How to Run the Project
 
