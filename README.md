@@ -22,7 +22,10 @@ You can check out the live version here: [Lexi Chatbot Frontend](https://lexi-fr
 ## Screenshots
 
 ### Upload Image Section
-![Image Upload](link-to-upload-screenshot.png)
+![Image Upload](![Screenshot 2024-09-14 165008](https://github.com/user-attachments/assets/fd821394-133f-47b6-8e66-63f31660f3c0)
+![Screenshot 2024-09-14 165029](https://github.com/user-attachments/assets/4283e8c1-fa11-495a-bc10-91f623742ba1)
+![Screenshot 2024-09-14 165021](https://github.com/user-attachments/assets/717b965c-5f5f-44b2-9dc7-04ae6f1a58c5)
+)
 
 ### Image Processing and Response
 ![Image Processing](link-to-processing-screenshot.png)
