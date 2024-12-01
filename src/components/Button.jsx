@@ -2,7 +2,7 @@ import React from "react";
 import styles from "../style"; // Assuming styles are imported from your styles file
 
 const Button = ({ additionalStyles }) => (
-  <a href="https://lexi-bot.streamlit.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://image-processing-chatbot-rugnpnc4qfzrvxmtydzkrj.streamlit.app/" target="_blank" rel="noopener noreferrer">
     <button
       type="button"
       className={`py-4 px-6 my-6 font-poppins font-bold text-[18px] text-black bg-gradient-button rounded-[10px] outline-none ${additionalStyles}`}
